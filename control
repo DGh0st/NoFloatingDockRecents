@@ -1,0 +1,9 @@
+Package: com.dgh0st.nofloatingdockrecents
+Name: NoFloatingDockRecents
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: No recent apps for floating dock
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
